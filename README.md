@@ -41,8 +41,8 @@ Forensic Capabilities: In case of a security breach or performance issue, the lo
 Splunk Proficiency: Working through this project enhances proficiency in using Splunk, including data ingestion, query writing, dashboard creation, and alert setup. These are valuable skills for anyone pursuing a career in network administration, cybersecurity, or data analysis.
 Log Parsing and Data Normalization: The project involves parsing raw logs, transforming them into structured formats, and creating meaningful fields for analysis—skills that are transferable to other log analysis and SIEM tools.
 Troubleshooting Expertise: This project sharpens troubleshooting skills by providing hands-on experience in diagnosing network and system issues from log data.
-What You Can Achieve from This Project
-By completing and exploring this Splunk Log Analysis Project, you can:
+What i Can Achieve from This Project
+By completing and exploring this Splunk Log Analysis Project, i can:
 
 Master Log Analysis Techniques: Gain expertise in analyzing and interpreting logs from key network protocols such as HTTP, SSH, SMTP, FTP, DHCP, and DNS.
 Improve Network Security: Learn how to detect potential security threats, including unauthorized access, attack patterns, and abnormal behavior, enabling better protection of infrastructure.
@@ -50,9 +50,8 @@ Optimize Network Performance: Monitor system performance, identify issues, and o
 Streamline Incident Response: Set up automated alerts and dashboards that allow for faster detection and response to issues, ensuring minimal downtime and reducing the impact of incidents.
 Develop Data-Driven Decision-Making Skills: Make informed decisions about resource allocation, system configuration, and security policies based on detailed log data analysis.
 Enhance Troubleshooting Capabilities: Learn to diagnose complex system and network problems efficiently using Splunk’s search, correlation, and visualization tools.
-Gain Real-World Skills for Career Advancement: Strengthen your skill set for roles such as IT administrator, cybersecurity analyst, network engineer, or DevOps specialist by gaining hands-on experience with industry-leading tools like Splunk.
+
 Technologies Used
 Splunk: Central platform for collecting, indexing, and analyzing log data from various protocols.
 Search Processing Language (SPL): For querying and manipulating log data.
-Syslog: A protocol used to collect and send log data to Splunk from various network devices and services.
 Data Visualization: Splunk’s built-in tools for creating interactive dashboards and reports.
