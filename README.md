@@ -50,6 +50,7 @@ Optimize Network Performance: Monitor system performance, identify issues, and o
 Streamline Incident Response: Set up automated alerts and dashboards that allow for faster detection and response to issues, ensuring minimal downtime and reducing the impact of incidents.
 Develop Data-Driven Decision-Making Skills: Make informed decisions about resource allocation, system configuration, and security policies based on detailed log data analysis.
 Enhance Troubleshooting Capabilities: Learn to diagnose complex system and network problems efficiently using Splunk’s search, correlation, and visualization tools.
+![Screenshot 2024-12-02 121041](https://github.com/user-attachments/assets/dff72c83-504e-495d-9774-86b241b819a7)
 
 Technologies Used
 Splunk: Central platform for collecting, indexing, and analyzing log data from various protocols.
