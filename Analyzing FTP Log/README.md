@@ -12,3 +12,5 @@ Identify key fields in FTP logs such as  timestamp, session_id, source, source_t
 ![d](https://github.com/user-attachments/assets/ff49730c-e048-49c7-a8b2-c44a7c03a3fb)
 # Detect multi_failed attempt By User
 ![f](https://github.com/user-attachments/assets/660c4321-fc33-4196-bb67-2aebf03cbb00)
+#  Identifying Unusual Source IPs
+![z](https://github.com/user-attachments/assets/edb81292-d1c2-4761-9978-4c2c875d44d1)
