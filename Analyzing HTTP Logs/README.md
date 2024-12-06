@@ -1,1 +1,2 @@
-hello
+In this project, I successfully uploaded HTTP log files to Splunk by following these steps: Logged into the Splunk web interface. Navigated to Settings > Add Data and selected Upload as the data input method. Chose the prepared HTTP log file for upload. Set the appropriate Source Type. Reviewed and configured settings like index, host, and sourcetype. Submitted the upload and verified the HTTP logs were successfully indexed and visible by running search queries in Splunk's interface.
+![http](https://github.com/user-attachments/assets/3dbe0107-50fe-4228-9490-59ea507cc51d)
